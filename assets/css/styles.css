@@ -1,0 +1,41 @@
+#case_langkah {
+  width:100%;
+  height:70px;
+  background-color:#fe3e3e;
+  /*padding:10px;*/
+  /*border-radius:10px;*/
+}
+
+#langkah1 {
+  height:50px;
+  width:50px;
+  background-color:#FF8C00;
+  /*padding:0;*/
+  border-radius:10px;
+  /*margin-right:0px;*/
+  /*margin-left:60px;*/
+}
+
+#langkah2 {
+  height:50px;
+  width:50px;
+  background-color:#ffffff;
+  padding:0;
+  border-radius:10px;
+  margin-right:0px;
+  margin-left:60px;
+  right:20px;
+}
+
+#cen {
+}
+
+#bg-langkah {
+  position:absolute;
+}
+
+.angka1 {
+  font-size:31px;
+  /*padding-bottom:27px;*/
+}
+
